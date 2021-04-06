@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding-top: 500px;
+    text-align: center;
+ background-color:darkmagenta;   
+}
+
+
+
+
+    
+    
+    
+
+.line{
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+}
+p{
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 20px;
+    line-height: 1.3;
+}
+.menu{
+	background: white;
+	position: fixed;
+	margin-top: 0px;
+	top: 0px;
+	z-index: 10;
+	width: 100%;
+}
+.links{
+display:inline;
+	color:teal;
+	
+	padding-right:25px;
+	padding-left: 33px;
+	font-family: monospace;
+	font-size: 20px;
+	
+}
+.links:hover{
+font-size: 25px;
+	text-decoration: underline;
+	
+}
+
+
+
+
+
